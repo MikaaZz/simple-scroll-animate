@@ -123,7 +123,7 @@ animeScroll();
 
 ```
 
-- Using the function if data-aniamte existing using debounce function
+- Using the function if data-aniamte existing and use debounce function
 
 ```javascript
 ...const's
@@ -172,23 +172,6 @@ const debounce = function (func, wait, immediate) {
 }
 
 animeScroll();
-
-```
-
-- Using the function if data-aniamte existing and use debounce function
-
-```javascript
-...const's
-
-...function(){
-
-}
-
-animeScroll();
-
-if (target.length) {
-    ... debounce function
-}
 
 ```
 
