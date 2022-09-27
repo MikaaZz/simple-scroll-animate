@@ -194,4 +194,4 @@ if (target.length) {
 
 ---
 
-## That's all Folks, you learn to use Mono archive template! :brain: :call_me_hand:
+## That's all Folks, you learn to create a simple JS animate Scroll! :brain: :call_me_hand:
