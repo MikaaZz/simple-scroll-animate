@@ -175,7 +175,7 @@ animeScroll();
 
 ```
 
-- Using the function if data-aniamte existing using debounce function
+- Using the function if data-aniamte existing and use debounce function
 
 ```javascript
 ...const's
